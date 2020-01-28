@@ -1,0 +1,11 @@
+C:\Programing\DKO\DKO\bin\Debug\netcoreapp2.1\DKO.deps.json
+C:\Programing\DKO\DKO\bin\Debug\netcoreapp2.1\DKO.runtimeconfig.json
+C:\Programing\DKO\DKO\bin\Debug\netcoreapp2.1\DKO.runtimeconfig.dev.json
+C:\Programing\DKO\DKO\bin\Debug\netcoreapp2.1\DKO.dll
+C:\Programing\DKO\DKO\bin\Debug\netcoreapp2.1\DKO.pdb
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.csprojAssemblyReference.cache
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.csproj.CoreCompileInputs.cache
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.AssemblyInfoInputs.cache
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.AssemblyInfo.cs
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.dll
+C:\Programing\DKO\DKO\obj\Debug\netcoreapp2.1\DKO.pdb
